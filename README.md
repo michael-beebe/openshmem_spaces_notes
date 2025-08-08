@@ -1,1 +1,1 @@
-# openshmem_spaces_notes
+Notes for memory spaces
