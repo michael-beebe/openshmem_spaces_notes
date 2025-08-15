@@ -1,0 +1,7 @@
+========================
+Approaches
+========================
+1.) SHMEM_SPACE_CPU, SHMEM_SPACE_GPU, SHMEM_SPACE_<DEVICE> to cover additional spaces
+2.) SHMEM_SPACE_<DEVICE> to cover all spaces
+3.) SHMEM_SPACE_CPU, SHMEM_SPACE_GPU, shmem_space_create() to cover additional spaces
+
